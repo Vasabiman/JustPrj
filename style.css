@@ -1,0 +1,498 @@
+body {
+  margin: 0;
+  padding:0;
+  width: 1440px;
+  font-family: "Montserrat", "Playfair Display", "Arial", sans-serif;
+  font-size: 100%;
+  color: #AE7C78;
+  background-color: #FFFFFF;
+}
+.header_line_1{
+  position: absolute;
+  width: 1440px;
+  height: 0px;
+  left: 0px;
+  top: 26px;
+  border: 1px solid #AE7C78;
+}
+.header_line_2{
+position: absolute;
+width: 1440px;
+height: 0px;
+left: 0px;
+top: 90px;
+border: 1px solid #AE7C78;
+}
+header{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #AE7C78;
+}
+div.logo{
+  position: absolute;
+  left: 670px;
+  top: 42px;
+}
+nav.main-menu a {
+  text-decoration: none;
+  color: #AE7C78;
+}
+nav.main-menu ul {
+  list-style: none;
+}
+
+.main-menu li {
+  position: absolute;
+  top: 48px;
+  height: 20px;
+}
+.main-menu .catalog{
+  position: absolute;
+  width: 66px;
+  left: 120px;
+}
+.main-menu .delivery-payment{
+  position: absolute;
+  width: 154px;
+  left: 288px;
+}
+.main-menu .reviews{
+  position: absolute;
+  width: 65px;
+  left: 543px;
+}
+.main-menu .special{
+  position: absolute;
+  width: 160px;
+  left: 832px;
+}
+.main-menu .contacts{
+  position: absolute;
+  width: 78px;
+  left: 1081px;
+}
+.main-menu .shopping-cart{
+  position: absolute;
+  width: 72px;
+  left: 1248px;
+}
+main{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  color: #AE7C78;
+}
+.title h1{
+  position: absolute;
+  width: 384px;
+  height: 118px;
+  left: 120px;
+  top: 171px;
+  font-family: Playfair Display;
+  font-weight: normal;
+  font-size: 44px;
+  line-height: 59px;
+  color: #AE7C78;
+}
+.title > p {
+  position: absolute;
+  width: 384px;
+  height: 58px;
+  left: 120px;
+  top: 313px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  color: #AE7C78;
+}
+.title .anna-photo{
+  position: absolute;
+  left: 527px;
+  top: 230px;
+  border-radius: 10px;
+}
+.title .taisia-photo{
+  position: absolute;
+  left: 933px;
+  top: 172px;
+  border-radius: 10px;
+}
+.button-1{
+  padding: 22px 80px;
+  display: inline-block;
+  vertical-align: baseline;
+  border-radius: 40px;
+  background-color: #D89999;
+  text-decoration: none;
+  color: #FFFFFF;
+  position: absolute;
+  left: 120px;
+  top: 435px;
+}
+.advantages{
+  position: absolute;
+  width: 1200px;
+  height: 108px;
+  left: 120px;
+  top: 682px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #AE7C78;
+}
+.advantages > h4{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #AE7C78;
+}
+.advantages .delivery-pic{
+  position: absolute;
+  left: 0px;
+  top: 10px;
+}
+.advantages .delivery-title{
+  position: absolute;
+  width: 152px;
+  height: 20px;
+  left: 102px;
+  top: 0px;
+}
+.advantages .delivery-txt{
+  position: absolute;
+  width: 285px;
+  height: 36px;
+  left: 102px;
+  top: 28px;
+}
+.advantages .bouquet-pic{
+  position: absolute;
+  left: 438px;
+  top: 10px;
+}
+.advantages .bouquet-title{
+  position: absolute;
+  width: 182px;
+  height: 20px;
+  left: 504px;
+  top: 0px;
+}
+.advantages .bouquet-txt{
+  position: absolute;
+  width: 285px;
+  height: 80px;
+  left: 504px;
+  top: 28px;
+}
+.advantages .camera-pic{
+  position: absolute;
+  left: 836px;
+  top: 10px;
+}
+.advantages .camera-title{
+  position: absolute;
+  width: 220px;
+  height: 20px;
+  left: 915px;
+  top: 0px;
+}
+.advantages .camera-txt{
+  position: absolute;
+  width: 285px;
+  height: 60px;
+  left: 915px;
+  top: 28px;
+}
+.popular{
+  position: absolute;
+  width: 794px;
+  height: 546px;
+  left: 210px;
+  top: 188px;
+}
+.popular > h3{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  color: #AE7C78;
+}
+.pop-title{
+  position: absolute;
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: 0.02em;
+  color: #AE7C78;
+  width: 371px;
+  height: 48px;
+  left: 210px;
+  top: 0px;
+}
+.pop-txt{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #AE7C78;
+  position: absolute;
+  width: 428px;
+  height: 29px;
+  left: 0px;
+  top: 99px;
+}
+.button-2{
+  padding: 22px 100px;
+  display: inline-block;
+  vertical-align: baseline;
+  border-radius: 40px;
+  background-color: #D89999;
+  text-decoration: none;
+  color: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 370px;
+}
+.pop-bouquet{
+  position: absolute;
+  left: 390px;
+  top: 90px;
+}
+.nav-left{
+  position: absolute;
+  left: 310px;
+  top: 535px;
+}
+
+.nav-right{
+  position: absolute;
+  left: 380px;
+  top: 535px;
+}
+.three-bouquets{
+position: absolute;
+width: 1200px;
+height: 442px;
+left: 0px;
+top: 815px;
+}
+.wedding-bouquets{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px
+}
+.pion-bouquets{
+  position: absolute;
+  left: 407px;
+  top: 0px;
+  border-radius: 10px
+}
+.choice-bouquets{
+  position: absolute;
+  left: 813px;
+  top: 0px;
+  border-radius: 10px
+}
+.first-order{
+  position: absolute;
+  width: 1200px;
+  height: 391px;
+  left: 0px;
+  top: 1337px;
+  background: #AE7C78;
+}
+
+.first-order-pic{
+  position: absolute;
+  left: 610px;
+  top: 0px;
+}
+
+.first-order-title{
+  position: absolute;
+  width: 410px;
+  height: 118px;
+  left: 120px;
+  top: 10px;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 44px;
+  line-height: 59px;
+  letter-spacing: 0.02em;
+
+  color: #FFFFFF;
+}
+.first-order-txt{
+  position: absolute;
+  width: 387px;
+  height: 145px;
+  left: 120px;
+  top: 200px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #FFFFFF;
+}
+.four-steps-ideal{
+  position: absolute;
+  width: 1200px;
+  height: 232px;
+  left: 0px;
+  top: 1808px;
+}
+.four-step-idea-title{
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: 0.02em;
+  color: #AE7C78;
+}
+
+.news{
+  position: absolute;
+  width: 1200px;
+  height: 460px;
+  left: 0px;
+  top: 2120px;
+}
+.news-bouquet-small-1{
+  position: absolute;
+  right: 407px;
+  top: 0px;
+}
+.news-bouquet-small-2{
+  position: absolute; 
+  right: 407px;
+  top: 240px;
+}
+.news-big-bouquet{
+  position: absolute; 
+  right: 0px;
+  top: 0px;
+}
+.news-title{
+  position: absolute;
+  width: 487px;
+  height: 96px;
+  left: 0px;
+  top: 10px;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: 0.02em;
+  color: #AE7C78;
+
+}
+.news-txt{
+  position: absolute;
+  width: 387px;
+  height: 87px;
+  left: 0px;
+  top: 175px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  color: #AE7C78;
+}
+.news-sm-icons{
+  position: absolute;
+  left: 0px;
+  top: 340px;
+}
+.review{
+  position: absolute;
+  width: 1200px;
+  height: 460px;
+  left: 0px;
+  top: 2660px;
+}
+
+.review-title{
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: 0.02em;
+  color: #AE7C78;
+}
+
+.contacts{
+  position: absolute;
+  width: 1440px;
+  height: 644.1px;
+  left: -120px;
+  top: 3200px;
+}
+.footer{
+  position: absolute;
+  width: 1440px;
+  height: 97px;
+  left: 0px;
+  top: 4526.1px;
+  background: #AE7C78;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.logo-footer{
+  position: absolute;
+  left: 125px;
+  top: 40px;
+}
+.icons-footer{
+  position: absolute;
+  right: 115.24px;
+  top: 50px;
+}
+.footer_menu{
+  position: absolute;
+  left: 328px;
+  top: 4403px;
+}
+nav.footer-menu ul{
+  margin: 45px;
+  margin-left: 60px;
+  padding: 0;
+  list-style: none;
+}
+.footer-menu li {
+  display: inline-block;
+  margin-right: 3em;
+}
+nav.footer-menu a{
+  text-decoration: none;
+  color:#FFFFFF;
+}

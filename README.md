@@ -1,2 +1,2 @@
 # JustPrj
-kdjvbvjbvmsb` nv 
+Just readme file
